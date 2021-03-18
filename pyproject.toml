@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "standards"
 version = "0.1.0"
-description = "Digital Living Standards"
+description = "IHAN Testbed Data Product standards"
 authors = ["Digital Living International Ltd"]
 
 [tool.poetry.dependencies]

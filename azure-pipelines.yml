@@ -1,9 +1,0 @@
-# Runs in the internal CI to notify when new standards released
-
-trigger:
-  - master
-
-pr: none
-
-steps:
-  - script: "echo New standards available"
