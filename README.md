@@ -1,6 +1,6 @@
-# Digital Living Standards repository
+# Data Product standards for IHAN Testbed
 
-This repository contains Base Data Standards by Digital Living.
+This repository contains Base Data Standards for IHAN Testbed.
 
 Specification for describing data product standards can be found in
 [draft/DataProducts/README.md](draft/DataProducts/README.md).
@@ -11,7 +11,7 @@ subjects to change at any time._
 ## Contribution guidelines
 
 We accept contributions to this repository via
-[Pull Requests](https://github.com/digitalliving/standards/pulls). You can fork the
+[Pull Requests](https://github.com/IHAN-Testbed/standards/pulls). You can fork the
 repository, make your suggested changes in there, and then submit a Pull Request via
 GitHub.
 

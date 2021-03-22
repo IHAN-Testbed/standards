@@ -1,5 +1,5 @@
 Standards for
-[Data Products](https://github.com/digitalliving/standards/tree/master/draft/DataProducts)
+[Data Products](https://github.com/IHAN-Testbed/standards/tree/master/draft/DataProducts)
 must conform to the following set of rules:
 
 ## Standard specification format
